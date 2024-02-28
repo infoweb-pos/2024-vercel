@@ -11,7 +11,7 @@
 
 ## Tarefas
 1. Fork desse respositório para sua conta github. Assim posso acompanhar quem esta fazendo.
-2. Criar o arquivo index.html, conforme arquivo abaixo, na pasta principal do repositório.
+2. Criar o arquivo index.html, [conforme arquivo abaixo](https://github.com/infoweb-pos/2024-vercel/blob/main/README.md#arquivo-indexhtml), na pasta principal do repositório.
 3. Abrir vercel e autenticar
 4. Criar novo projeto no vercel e conectar ao seu repositório do github
 
