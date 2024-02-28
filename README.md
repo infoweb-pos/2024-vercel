@@ -15,6 +15,15 @@
 3. Abrir vercel e autenticar
 4. Criar novo projeto no vercel e conectar ao seu repositório do github
 
+## Links
+- [MDN Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
+  - [HTML: Linguagem de Marcação de Hipertexto](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- Hosting de aplicações web
+  - [vercel](https://vercel.com/)
+  - [heroku](https://www.heroku.com/)
+  - [netify](https://www.netlify.com/)
+  - [render](https://render.com/)
+
 ## Arquivo index.html
 
 ```html
