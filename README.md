@@ -9,6 +9,52 @@
 1. Conta ativa no Github (todos nossos projetos serão via github)
 2. Criar conta no [vercel](vercel.com)
 
-## Tarefa
+## Tarefas
 1. Fork desse respositório para sua conta github. Assim posso acompanhar quem esta fazendo.
-2. Criar um arquivo html 
+2. Criar o arquivo index.html, conforme arquivo abaixo, na pasta principal do repositório.
+3. Abrir vercel e autenticar
+4. Criar novo projeto no vercel e conectar ao seu repositório do github
+
+## Arquivo index.html
+
+```html
+<html>
+  <head>
+    <title>Infoweb 2024 - Tarefas</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div>
+      <div>
+        <h1>Lista de tarefas</h1>
+      </div>
+      <div>
+        <input type="text" placeholder="informe a tarefa" />
+        <button>Adicionar</button>
+      </div>
+      <ul>
+        <li>
+          <div>
+            <input type="checkbox" name="tarefa_1" id="tarefa_1" />
+            <label for="tarefa_1">
+              <span>Front-end web</span>
+              <span>Construir um front-end sem estilo</span>
+            </label>
+          </div>
+        </li>
+        <li>
+          <div>
+            <input type="checkbox" name="tarefa_1" id="tarefa_1" />
+            <label for="tarefa_1">
+              <span>Montar estilo do Front-end web</span>
+              <span>Usar framewerk CSS para estilizar o front-end</span>
+            </label>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </body>
+</html>
+
+```
